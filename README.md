@@ -1,18 +1,17 @@
 # OOP-Lua-OBJECT-ORIENTED-PROGRAMMING-
----
-General class structure using tables
+General class structure using tables-
 
-  Class ={
-    var1 = v,
-    var2 = w,
-    .
-    .
-    .
-    varN = z,
-    method = function(self, arguments)
-      function body
-    end
-  }
+    Class ={
+      var1 = v,
+      var2 = w,
+      .
+      .
+      .
+      varN = z,
+      method = function(self, arguments)
+        function body
+      end
+    }
 ---
 * The model table is known as a metatable
 
